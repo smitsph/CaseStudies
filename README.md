@@ -10,4 +10,6 @@ To build a regression model  in order to arrive at a prediction. This model will
 the model will be a good way for management to understand the pricing dynamics of a new market. Linear, Ridge and Lasso Regression models used and compared to arrive at best model.
 
 3.MovieAssignment is an assignment based project with data for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online, has been provided. In this assignment, it is attempted  to find some interesting insights into these movies and their voters, using Python.
+
+4.Uber analysis. The project involves a dataset pertains to Uber rides in July 2016 . It is a study in Exploratory Data Analysis and Data visualisation to analyse the various factors impacting the bottomline of the service provider and providing suggestions/ improvements that could be effected, based on the analysis.
  
