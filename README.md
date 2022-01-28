@@ -17,4 +17,7 @@ the model will be a good way for management to understand the pricing dynamics o
 
 6.Black Friday Sale Project:  A retail company wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products for a period. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from the corresponding period
 The objective is to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+
+7.Aviation Accident Project  This project is meant to explore, analyse and visualize aviation accidents and related factors
+such as fatalities based on various parameters Detailed analysis of following factors a)The planes crashed per year b)People aboard per year during crashes c)People dead per year during crashes d) Fatalities versus various features of dataset
  
