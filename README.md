@@ -27,4 +27,6 @@ such as fatalities based on various parameters Detailed analysis of following fa
 It involves predicting the flower species given measurements of iris flowers.It is a multi-class classification problem. 
 The number of observations for each class is balanced. There are 150 observations with 4 input variables and 1 output variable ie Species.. The variable names are as follows:
 a)Sepal length in cm. b)Sepal width in cm. c)Petal length in cm.d)Petal width in cm. e)Species (Iris Setosa, Iris Versicolour, Iris Virginica).
+
+10. Credit Card Fraud Detection:Companies suffer losses due to fraudulent activities, many companies worldwide have lost billions of dollars yearly. This project aims to use the combination of fraud and non-fraud transactions from the historical data with different people's credit card transaction data to estimate fraud or non-fraud on credit card transactions. It is a  supervised learning -classification exercise and two models have been employed and imbalance in data addressed through over under & over sampling, to arrive at the best possible classification.
  
