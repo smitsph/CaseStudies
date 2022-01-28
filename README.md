@@ -21,5 +21,10 @@ The objective is to build a model to predict the purchase amount of customer aga
 7.Aviation Accident Project  This project is meant to explore, analyse and visualize aviation accidents and related factors
 such as fatalities based on various parameters Detailed analysis of following factors a)The planes crashed per year b)People aboard per year during crashes c)People dead per year during crashes d) Fatalities versus various features of dataset.
 
-8.Haberman Survival Analysis: This project aims at the univariate, bivariate and multivariate analysis by extensive use of Data Visualisation.The objective is  study of the survival based on the factors affecting survival & to predict whether the patient will survive after 5 years or not based upon the patient’s age, year of treatment and the number of positive lymph nodes
+8.Haberman Survival Analysis: This project aims at the univariate, bivariate and multivariate analysis by extensive use of Data Visualisation.The objective is  study of the survival based on the factors affecting survival & to predict whether the patient will survive after 5 years or not based upon the patient’s age, year of treatment and the number of positive lymph nodes.
+
+9.Iris dataset : The dataset deals with the various properties of the flowers and then classifies them according to their properties.
+It involves predicting the flower species given measurements of iris flowers.It is a multi-class classification problem. 
+The number of observations for each class is balanced. There are 150 observations with 4 input variables and 1 output variable ie Species.. The variable names are as follows:
+a)Sepal length in cm. b)Sepal width in cm. c)Petal length in cm.d)Petal width in cm. e)Species (Iris Setosa, Iris Versicolour, Iris Virginica).
  
