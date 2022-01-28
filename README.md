@@ -19,5 +19,7 @@ the model will be a good way for management to understand the pricing dynamics o
 The objective is to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
 7.Aviation Accident Project  This project is meant to explore, analyse and visualize aviation accidents and related factors
-such as fatalities based on various parameters Detailed analysis of following factors a)The planes crashed per year b)People aboard per year during crashes c)People dead per year during crashes d) Fatalities versus various features of dataset
+such as fatalities based on various parameters Detailed analysis of following factors a)The planes crashed per year b)People aboard per year during crashes c)People dead per year during crashes d) Fatalities versus various features of dataset.
+
+8.Haberman Survival Analysis: This project aims at the univariate, bivariate and multivariate analysis by extensive use of Data Visualisation.The objective is  study of the survival based on the dependent factors & to predict whether the patient will survive after 5 years or not based upon the patient’s age, year of treatment and the number of positive lymph nodes
  
